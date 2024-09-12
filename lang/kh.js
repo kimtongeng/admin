@@ -1,6 +1,7 @@
 import { max } from "moment";
 
 export default {
+ 
   order_number_max:"លេខរៀងធំបំផុត",
   order_number_min:"លេខរៀងតូចបំផុត",
   sign_in: 'ចូលប្រើ',

@@ -5,10 +5,12 @@
       :enable-date-picker="true"
       :date-picker-props="datePickerProps"
       @datePickerSelected="datePickerSelected"
+
       :enable-sort="true"
       :sort-by.sync="sortBy"
       :sort-type.sync="sortType"
       @sortChange="get()"
+      
       module-key="user_role"
       :title="$t('user_role')"
       :button-add="true"

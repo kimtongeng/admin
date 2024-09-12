@@ -346,4 +346,10 @@ export const sidebar = [
     key: 'fake-type-item',
     to: `/fake-type-item`,
   },
+  {
+    label: 'fake-user-role',
+    icon: 'simple-icon-equalizer',
+    key: 'fake-user-role',
+    to: `/fake-user-role`,
+  },
 ]
